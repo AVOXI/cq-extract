@@ -1,0 +1,355 @@
+{
+  "callId": "97efd1a0-e57a-11ea-8943-42010a64003b",
+  "organizationId": "d180b387-fc97-11e8-b309-0a580a140a0a",
+  "timestamp": "2020-08-23T19:55:28Z",
+  "events": [
+    {
+      "timestamp": "2020-08-23T20:15:25.803293282Z",
+      "kind": "app_stop",
+      "detail": "BridgeAdd",
+      "eventId": "61857f34-e57d-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T20:15:25.803807185Z",
+      "kind": "app_start",
+      "detail": "Hangup",
+      "eventId": "61859340-e57d-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T20:15:25.803825594Z",
+      "kind": "app_stop",
+      "detail": "Hangup",
+      "eventId": "618593f5-e57d-11ea-8661-7ed855a4a529"
+    },
+    {
+      "kind": "stop",
+      "eventId": "618d1d02-e57d-11ea-b579-b2d63c265dcf"
+    },
+    {
+      "kind": "recording_ready",
+      "detail": "d180b387-fc97-11e8-b309-0a580a140a0a/20200823/97efd1a0-e57a-11ea-8943-42010a64003b_0.wav",
+      "eventId": "6218ffaf-e57d-11ea-b7a8-be6b00f1376e"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.821320374Z",
+      "kind": "start",
+      "detail": "2020-08-23 19:55:28.773840596 +0000 UTC m=+413692.412874625",
+      "eventId": "98108aeb-e57a-11ea-8661-7ed855a4a529",
+      "appId": "+16786312280"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.851746666Z",
+      "kind": "app_start",
+      "detail": "Number",
+      "eventId": "98152f69-e57a-11ea-8661-7ed855a4a529",
+      "appId": "+16786312280"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.879691983Z",
+      "kind": "app_stop",
+      "detail": "Number",
+      "eventId": "98197308-e57a-11ea-8661-7ed855a4a529",
+      "appId": "+16786312280"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.910052974Z",
+      "kind": "app_start",
+      "detail": "Huntgroup",
+      "eventId": "981e1501-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.913404977Z",
+      "kind": "app_stop",
+      "detail": "Huntgroup",
+      "eventId": "981e97e8-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.932172505Z",
+      "kind": "app_start",
+      "detail": "Number",
+      "eventId": "9821750a-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:28.948358079Z",
+      "kind": "app_stop",
+      "detail": "Number",
+      "eventId": "9823ed54-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:29.019755686Z",
+      "kind": "app_start",
+      "detail": "Menu",
+      "eventId": "982ed247-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:29.024837747Z",
+      "kind": "answer",
+      "detail": "machine",
+      "eventId": "98316d4e-e57a-11ea-a1ee-4e5563dc895c"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:46.898722428Z",
+      "kind": "app_stop",
+      "detail": "Menu",
+      "eventId": "a2d6ef74-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:46.922965707Z",
+      "kind": "app_start",
+      "detail": "Number",
+      "eventId": "a2daa266-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:46.943991808Z",
+      "kind": "app_stop",
+      "detail": "Number",
+      "eventId": "a2ddd7c3-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:47.006496172Z",
+      "kind": "app_start",
+      "detail": "Menu",
+      "eventId": "a2e76152-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:47.010164073Z",
+      "kind": "answer",
+      "detail": "machine",
+      "eventId": "a2e8de54-e57a-11ea-a1ee-4e5563dc895c"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:57.171362675Z",
+      "kind": "app_stop",
+      "detail": "Menu",
+      "eventId": "a8f66a60-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:57.193841148Z",
+      "kind": "app_start",
+      "detail": "Number",
+      "eventId": "a8f9d877-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:57.223746189Z",
+      "kind": "app_stop",
+      "detail": "Number",
+      "eventId": "a8fe689d-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:57.250129109Z",
+      "kind": "app_start",
+      "detail": "Queue",
+      "eventId": "a9026f39-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:58.075254046Z",
+      "kind": "answer",
+      "detail": "machine",
+      "eventId": "a981e2ae-e57a-11ea-aa6c-5ac7d45a07ee"
+    },
+    {
+      "timestamp": "2020-08-23T19:55:58.264156513Z",
+      "kind": "queue_enter",
+      "detail": "AgentID:  HoldTime: 0 RingTime: 0",
+      "eventId": "a99d29b7-e57a-11ea-af23-0adbc3799ff6"
+    },
+    {
+      "timestamp": "2020-08-23T19:56:01.675347018Z",
+      "kind": "app_stop",
+      "detail": "Queue",
+      "eventId": "aba5ab46-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:56:01.722186376Z",
+      "kind": "app_start",
+      "detail": "BridgeAdd",
+      "eventId": "abacd0f6-e57a-11ea-8661-7ed855a4a529"
+    },
+    {
+      "timestamp": "2020-08-23T19:56:01.740895683Z",
+      "kind": "answer",
+      "detail": "human",
+      "eventId": "abafe966-e57a-11ea-a1ee-4e5563dc895c"
+    },
+    {
+      "timestamp": "2020-08-23T19:56:01.904773214Z",
+      "kind": "agent_answer",
+      "detail": "AgentID: 68ea3162-bfe1-11ea-b577-ba33ba828b20 HoldTime: 3 RingTime: 3",
+      "eventId": "abc8ad51-e57a-11ea-af23-0adbc3799ff6"
+    }
+  ],
+  "callerId": {
+    "name": "14254288335",
+    "number": "+14254288335"
+  },
+  "channel": {
+    "id": "1598212528.417710",
+    "node": "42:01:0a:64:00:84"
+  },
+  "channelName": "PJSIP/peers-000071d8",
+  "dialed": "+16786312280",
+  "peerIp": "199.244.96.39",
+  "country": "US",
+  "duration": "1207s",
+  "billingDuration": "1206s",
+  "sipId": "24-24-7B5F58A7-5F42C9B00006C3A7-D0E13700~2o",
+  "originalDialedNumber": "16786312280",
+  "originalCallerId": "14254288335",
+  "callStatus": "ANSWERED",
+  "dispositions": {
+    "userId": "649bebc3-86ee-11e9-b228-0a580a140196",
+    "timestamp": "2020-08-23T20:21:13Z",
+    "dispositions": [
+      {
+        "title": "Support - English - After Hours",
+        "values": [
+          "Call Quality/CALLER HUNG UP"
+        ],
+        "priority": 1
+      },
+      {
+        "title": "Notes",
+        "values": [
+          "Case number 00396543.   Seems as if this Customer's speakers stopped working during this call."
+        ],
+        "priority": 2
+      }
+    ]
+  },
+  "metadata": [
+    {
+      "metadataType": "BILLING",
+      "columnQualifier": "inbound",
+      "metadata": {
+        "cdrId": "397332290",
+        "chargedAmount": "0.00000",
+        "chargedQuantity": "1200",
+        "portaIRate": "5278344",
+        "portaITariff": "21",
+        "portaRateTime": "1598212529",
+        "usedQuantity": "1196"
+      }
+    },
+    {
+      "metadataType": "CALL_QUALITY_STATS",
+      "columnQualifier": "97efd1a0-e57a-11ea-8943-42010a64003b",
+      "metadata": {
+        "candidate-pair": "[{\"state\":\"succeeded\",\"bytesSent\":3858354,\"bytesReceived\":8379670,\"totalRoundTripTime\":31.154,\"currentRoundTripTime\":0.065,\"availableOutgoingBitrate\":300000,\"requestsReceived\":3,\"requestsSent\":10,\"responsesReceived\":465,\"responsesSent\":3,\"consentRequestsSent\":463,\"local-candidate\":{\"networkType\":\"wifi\",\"ip\":\"104.196.96.192\",\"port\":34111,\"protocol\":\"udp\",\"relayProtocol\":\"udp\",\"candidateType\":\"relay\"},\"remote-candidate\":{\"ip\":\"35.237.138.78\",\"port\":20260,\"protocol\":\"udp\"}}]",
+        "inbound-rtp": "[{\"ssrc\":303823695,\"codecId\":\"RTCCodec_0_Inbound_107\",\"packetsReceived\":57965,\"bytesReceived\":7076593,\"headerBytesReceived\":695580,\"packetsLost\":2,\"lastPacketReceivedTimestamp\":78727.771,\"jitter\":0.001,\"track\":{\"jitterBufferDelay\":2241705.6,\"jitterBufferEmittedCount\":55635840,\"totalAudioEnergy\":1.709579462796941,\"totalSamplesReceived\":55657440,\"totalSamplesDuration\":1159.5299999990905},\"codec\":{\"payloadType\":107,\"mimeType\":\"audio/opus\",\"clockRate\":48000}}]",
+        "media-source": "[{\"timestamp\":1598213720878,\"totalAudioEnergy\":33.491026673169586,\"totalSamplesDuration\":1160.5099999990896}]",
+        "outbound-rtp": "[{\"ssrc\":1796117081,\"codecId\":\"RTCCodec_0_Outbound_107\",\"packetsSent\":57982,\"retransmittedPacketsSent\":0,\"bytesSent\":2554893,\"headerBytesSent\":695784,\"retransmittedBytesSent\":0,\"track\":{},\"codec\":{\"payloadType\":107,\"mimeType\":\"audio/opus\",\"clockRate\":48000}}]",
+        "remote-inbound-rtp": "[{\"ssrc\":1796117081,\"codecId\":\"RTCCodec_0_Outbound_107\",\"packetsLost\":3,\"jitter\":0.004,\"roundTripTime\":0.075}]"
+      }
+    },
+    {
+      "metadataType": "CALL_RECORDING",
+      "columnQualifier": "97efd1a0-e57a-11ea-8943-42010a64003b",
+      "metadata": {
+        "RecordingReason": "{\"id\":\"257\",\"name\":\"Recording Rule - +16786312280\",\"organization_id\":\"d180b387-fc97-11e8-b309-0a580a140a0a\",\"entity\":\"number\",\"entity_id\":\"+16786312280\",\"action\":\"Record\",\"direction\":\"Inbound\",\"active\":true,\"last_updated\":\"2019-12-20T20:37:44Z\",\"seq\":38,\"retention_period\":730,\"created\":\"2019-12-20T20:37:44Z\"}"
+      }
+    },
+    {
+      "metadataType": "CRM",
+      "columnQualifier": "9f4a00b3-c560-45ee-83d3-1921a12f1cb7",
+      "metadata": {
+        "dataTemplateMap": "{}",
+        "entityIdentifierList": "[]",
+        "entityMatchList": "[]",
+        "entityTemplateMap": "{}",
+        "statusCode": "204",
+        "statusMessage": "Unable to locate caller information for number [object Object]",
+        "templateFieldsMap": "{}"
+      }
+    },
+    {
+      "metadataType": "IVR_EVENT",
+      "columnQualifier": "a2d6bd08-e57a-11ea-9e2a-e26cf75ade62",
+      "metadata": {
+        "callID": "97efd1a0-e57a-11ea-8943-42010a64003b",
+        "destTarget": "Number",
+        "isValidInput": "true",
+        "orgID": "d180b387-fc97-11e8-b309-0a580a140a0a",
+        "pressedKey": "2",
+        "result": "KEY_PRESS",
+        "srcTarget": "Menu",
+        "timeStamp": "1598212529"
+      }
+    },
+    {
+      "metadataType": "IVR_EVENT",
+      "columnQualifier": "a8f6352c-e57a-11ea-9e2a-e26cf75ade62",
+      "metadata": {
+        "callID": "97efd1a0-e57a-11ea-8943-42010a64003b",
+        "destTarget": "Number",
+        "isValidInput": "true",
+        "orgID": "d180b387-fc97-11e8-b309-0a580a140a0a",
+        "pressedKey": "2",
+        "result": "KEY_PRESS",
+        "srcTarget": "Menu",
+        "timeStamp": "1598212547"
+      }
+    },
+    {
+      "metadataType": "QUEUE_EVENT",
+      "columnQualifier": "61d5ee55-e57d-11ea-9942-d6e2edf96768",
+      "metadata": {
+        "AgentId": "68ea3162-bfe1-11ea-b577-ba33ba828b20",
+        "AgentName": "Dennis Oliver",
+        "AgentNumber": "9736",
+        "HoldTime": "3",
+        "Kind": "agent_end",
+        "QueueId": "cb24a229-6234-11ea-a526-420926381817",
+        "QueueName": "Support - English - After Hours",
+        "RingTime": "3",
+        "TalkTime": "1165",
+        "Timestamp": "1598213726"
+      }
+    },
+    {
+      "metadataType": "QUEUE_EVENT",
+      "columnQualifier": "a9adda0d-e57a-11ea-b286-ba5e1b07d606",
+      "metadata": {
+        "HoldTime": "0",
+        "Kind": "queue_enter",
+        "QueueId": "cb24a229-6234-11ea-a526-420926381817",
+        "QueueName": "Support - English - After Hours",
+        "RingTime": "0",
+        "TalkTime": "0",
+        "Timestamp": "1598212558"
+      }
+    },
+    {
+      "metadataType": "QUEUE_EVENT",
+      "columnQualifier": "a9e42bf3-e57a-11ea-b286-ba5e1b07d606",
+      "metadata": {
+        "AgentId": "68ea3162-bfe1-11ea-b577-ba33ba828b20",
+        "AgentName": "Dennis Oliver",
+        "AgentNumber": "9736",
+        "HoldTime": "0",
+        "Kind": "agent_ring",
+        "QueueId": "cb24a229-6234-11ea-a526-420926381817",
+        "QueueName": "Support - English - After Hours",
+        "RingTime": "0",
+        "TalkTime": "0",
+        "Timestamp": "1598212558"
+      }
+    },
+    {
+      "metadataType": "QUEUE_EVENT",
+      "columnQualifier": "abdf851d-e57a-11ea-b286-ba5e1b07d606",
+      "metadata": {
+        "AgentId": "68ea3162-bfe1-11ea-b577-ba33ba828b20",
+        "AgentName": "Dennis Oliver",
+        "AgentNumber": "9736",
+        "HoldTime": "3",
+        "Kind": "agent_answer",
+        "QueueId": "cb24a229-6234-11ea-a526-420926381817",
+        "QueueName": "Support - English - After Hours",
+        "RingTime": "3",
+        "TalkTime": "0",
+        "Timestamp": "1598212561"
+      }
+    }
+  ],
+  "direction": "INBOUND"
+}
